@@ -16,4 +16,5 @@ Plans
 4) Define pool of techologies and libraries which will be use
 5) Develop module of exchange with imto
 6) Develop helpful classes like a read cmd params,log,mutexes 
+7) Development of a universal graphic screen to display the primary target data
 

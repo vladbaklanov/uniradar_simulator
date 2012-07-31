@@ -17,3 +17,5 @@ Plans
 5) Develop module of exchange with imto
 6) Develop helpful classes like a read cmd params,log,mutexes 
 
+8)
+
